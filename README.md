@@ -1,4 +1,3 @@
 # AGH
-## WIET
-### Bazy Danych 2
-#### lab 3 - Hibernate
+### WIET Bazy Danych 2
+Hibernate JPA Spring Boot
